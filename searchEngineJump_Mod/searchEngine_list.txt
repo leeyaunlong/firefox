@@ -8,7 +8,7 @@
     360ËÑË÷, http://www.so.com/s?ie=utf-8&q=%s
     
 Tech
-    zhihu
+    zhihu, http://www.zhihu.com/search?type=content&q=%s
     superuser, http://superuser.com/search?q=%s
     stackoverflow, http://stackoverflow.com/search?q=%s
 

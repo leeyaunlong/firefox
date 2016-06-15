@@ -1,13 +1,13 @@
 ﻿(function(){
 // ==UserScript==
-// @name           searchEngineJump 简化改进版
+// @name           searchEngineJump_mod
 // @author         NLF && ywzhaiqi
 // @contributor    ted423
 // @description    方便的在各个引擎之间跳转。可自定义搜索列表的 NLF 修改版。
 // @version        4.2.1.4
-// @namespace      http://userscripts.org/users/NLF
-// @homepage       https://github.com/ywzhaiqi/userscript
-// homepage       http://userscripts.org/scripts/show/84970
+// @namespace      http://xyz.userscripts.org/users/jarod
+// @homepage       https://github.com/leeyaunlong/firefox/tree/master/searchEngineJump_Mod
+// homepage       http://xyz.userscripts.org/scripts/show/84970
 
 // @grant          GM_getValue
 // @grant          GM_setValue
